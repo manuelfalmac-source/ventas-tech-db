@@ -70,3 +70,11 @@ FROM ventas_mensuales
 ORDER BY mes;
 
 -- HALLAZGOS
+
+-- 1. El producto 1 es el que genera la mayor facturación, con un total de 3600.
+
+-- 2. El producto 2 es el de mayor volumen de ventas, con 13 unidades vendidas,
+-- aunque su facturación total es de 364.
+
+-- 3. El cliente 1 es el que presenta el mayor gasto total, con 2640,
+-- seguido por el cliente 5 con 2100.
