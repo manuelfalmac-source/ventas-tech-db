@@ -71,10 +71,12 @@ ORDER BY mes;
 
 -- HALLAZGOS
 
--- 1. El producto 1 es el que genera la mayor facturación, con un total de 3600.
+-- 1. El producto 1 genera 3600 de facturación, aproximadamente el 56% del total.
+-- Esto muestra una alta concentración de ingresos en un solo producto que conviene monitorear.
 
--- 2. El producto 2 es el de mayor volumen de ventas, con 13 unidades vendidas,
--- aunque su facturación total es de 364.
+-- 2. El producto 2 es el de mayor volumen, con 13 unidades vendidas, pero genera
+-- solamente 364 de facturación. Esto muestra que un alto volumen no necesariamente
+-- implica una alta contribución a los ingresos.
 
--- 3. El cliente 1 es el que presenta el mayor gasto total, con 2640,
--- seguido por el cliente 5 con 2100.
+-- 3. El cliente 1 presenta el mayor gasto total, con 2640, seguido por el cliente 5
+-- con 2100. Estos clientes podrían ser prioritarios para acciones de fidelización.
