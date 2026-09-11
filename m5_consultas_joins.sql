@@ -89,3 +89,16 @@ GROUP BY canal;
 -- ==========================================
 -- HALLAZGOS
 -- ==========================================
+
+-- ==========================================
+-- HALLAZGOS
+-- ==========================================
+
+-- 1. El canal Online concentra la mayor facturacion, con 4560,
+-- frente a 1884 del canal Presencial.
+
+-- 2. Diego Fernandez figura como cliente registrado sin compras,
+-- por lo que podria considerarse para acciones de activacion comercial.
+
+-- 3. La Webcam HD 1080 no registra ventas, por lo que conviene
+-- monitorear su desempeño y evaluar acciones para impulsar su demanda.
