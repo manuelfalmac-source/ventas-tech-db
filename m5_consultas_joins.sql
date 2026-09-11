@@ -90,10 +90,6 @@ GROUP BY canal;
 -- HALLAZGOS
 -- ==========================================
 
--- ==========================================
--- HALLAZGOS
--- ==========================================
-
 -- 1. El canal Online concentra la mayor facturacion, con 4560,
 -- frente a 1884 del canal Presencial.
 
